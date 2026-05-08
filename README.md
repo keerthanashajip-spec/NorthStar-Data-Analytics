@@ -2,8 +2,8 @@
 database and analytics project using Python, R, and MongoDB
 ============================================================
 
-# NorthStar Urban Mobility — Data Analytics Project
-## Overview
+### NorthStar Urban Mobility — Data Analytics Project
+#### Overview
 This project analyses operational inefficiencies in NorthStar Urban Mobility using:
 - Python (data cleaning & EDA)
 - R (statistical analysis & SQL queries)
